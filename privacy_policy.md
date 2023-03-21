@@ -6,6 +6,8 @@ HSTV is an Android TV app developed by Broken Road Software.
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this application to collect any personally identifiable information. All data (e.g. Facility Layouts and HomeSeer credentials) is stored on your device in the application's private file store (i.e. it is not externally accessible). All data is erased when the application is uninstalled.
 
+NOTE: HSTV does support the exporting of the Facility layouts to an SMB share folder. This action must knowingly be setup and performed by the user of the application. Any data exported in this manor becomes the responsibility of the user and the application no longer controls that data's destiny. Exported data will not be removed when the application is uninstalled.  
+
 ### Explanation of permissions requested in the app
 
 <br/>
